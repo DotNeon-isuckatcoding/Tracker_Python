@@ -10,7 +10,7 @@ use these commands to install the imports.
 pip install time && pip install socket && pip install requests
 ```
 
-# Linux/Mac (maybe) since i have never used mac i Do Not Know if yay Or these are the correct commands.
+# Linux/Mac (maybe) 
 ```
 yay -S python-time && yay -S python-socket && yay -S python-requests
 ```
